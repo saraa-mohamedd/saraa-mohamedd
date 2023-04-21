@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a junior at the American University in Cairo double majoring in Computer Science and Mathematics
+I'm a junior at the American University in Cairo double majoring in Computer Science and Mathematics~
 
 - 🌱 I’m currently learning Web Development, App Development, and UI/UX Design
 - 📫 Email me at sara_mohamed@aucegypt.edu

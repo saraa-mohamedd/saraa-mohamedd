@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a junior at the American University in Cairo double majoring in Computer Science and Mathematics~
+I'm a senior at the American University in Cairo double majoring in Computer Science and Mathematics~
 
-- 🌱 I’m currently learning Web Development, App Development, and UI/UX Design
+- 🌱 I’m currently learning about Machine Learning, Web Development, App Development, and UI/UX Design
 - 📫 Email me at sara_mohamed@aucegypt.edu
 
 ### :hammer_and_wrench: Languages and Tools :
